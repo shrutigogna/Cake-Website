@@ -1,0 +1,34 @@
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image: linear-gradient(rgb(236, 181, 197), rgb(230, 228, 216));
+  line-height: 60px;
+  
+}
+.btn{
+
+    color: black;
+    width: 350px;
+    text-align: center;
+    background-color: pink;
+    border:1px solid black;
+    border-radius: 30%;
+    padding: 3px;
+    margin-right: 6px;
+    margin-left: 6px;
+    
+}
+
+.btn:hover{
+     background-color: white;
+     
+}
+
+h1{
+
+    text-align: center;
+    font-style:oblique;
+    font-family:Arial, Helvetica, sans-serif;
+}

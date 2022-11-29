@@ -1,0 +1,49 @@
+.card {
+
+  width: 22em;
+  height: 30em;
+  display: inline-block;
+  margin:10px;
+  justify-content: 'space-between';
+  align-items: center;
+  background: #a9c9ff;
+  background-image: linear-gradient(180deg, #a9c9ff 0%, #ffbbec 100%);
+  box-shadow: 2px 3px 23px rgba(0,0,0,.1);
+  padding: 1em 3em;
+  transform-style: preserve-3d;
+  margin-top: 4em;
+  transition: 0.2s;
+  overflow-y: scroll;
+
+} 
+
+
+.number{
+
+    font-weight: 200px;
+
+
+}
+
+.name{
+
+    color: black;
+
+}
+
+.desc:hover{
+
+    color: brown;
+    text-decoration: underline;
+    
+
+}
+
+img{
+
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+
+
+}
